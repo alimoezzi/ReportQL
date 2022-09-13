@@ -1,16 +1,17 @@
 # ReportQL — Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Technique
 
-*[Seyed Ali Reza Moezzi](https://alimoezzi.io)*,
-*[Abdolrahman Ghaedi](https://mirana.design/)*,
+*[Seyed Ali Reza Moezzi](https://scholar.google.com/citations?hl=en&user=JIZgcjAAAAAJ)*,
+*[Abdolrahman Ghaedi]()*,
 *[Mojdeh Rahmanian](https://scholar.google.com/citations?user=2ZtVfnUAAAAJ)*,
 *[Seyedeh Zahra Mousavi](https://www.researchgate.net/scientific-contributions/Seyedeh-Zahra-Mousavi-2176375936)*,
 *[Ashkan Sami](https://scholar.google.com/citations?user=zIh9AvIAAAAJ)*
+<html>
+<div><sub><sup>*Submitted: 16 November 2021*</sup></sub></div>
+<div><sub><sup>*Revised: 20 June 2022*</sup></sub></div>
+<sub><sup>*Accepted: 27 July 2022*</sup></sub>
+</html>
 
-<sub><sup>*Submitted: 16 November 2021*</sub></sup></br>
-<sub><sup>*Revised: 20 June 2022*</sub></sup></br>
-<sub><sup>*Accepted: 27 July 2022*</sub></sup>
-
-[[paper](https://rdcu.be/cUiqQ)] [[dataset](https://alimoezzi.io/reportql)] [[project page](https://alimoezzi.io/reportql)]
+[[paper](https://rdcu.be/cUiqQ)] [[dataset](https://www.kaggle.com/datasets/sarme77/reportql)] [[project page](https://realsarm.github.io/ReportQL/)]
 
 ## Introduction
 
@@ -75,7 +76,7 @@ python script/fit.py
 For getting test results on our test set, run:
 
 ```bash
-python script/fit.py
+python script/test.py
 ```
 
 ### Inference
@@ -90,16 +91,19 @@ Our fine-tuned ReportQL weights can be accessed on 🤗 HuggingFace.
 
 ## License
 
-Please see the LICENSE file for details.
+Please see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
 If you find our work useful in your research, please consider citing:
 
-@article{Moezzi2022,
-  title={Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Techniquen},
-  author={Seyed Ali Reza Moezzi, Abdolrahman Ghaedi, Mojdeh Rahmanian, Seyedeh Zahra Mousavi, Ashkan Sami},
+```
+@article{moezzi2022application,
+  title={Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Technique},
+  author={Moezzi, Seyed Ali Reza and Ghaedi, Abdolrahman and Rahmanian, Mojdeh and Mousavi, Seyedeh Zahra and Sami, Ashkan},
   journal={Journal of Digital Imaging},
-  doi={https://doi.org/10.1007/s10278-022-00692-x},
-  year={2022}
+  pages={1--11},
+  year={2022},
+  publisher={Springer}
 }
+```
