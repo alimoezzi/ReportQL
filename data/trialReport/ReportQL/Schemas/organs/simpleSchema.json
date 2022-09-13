@@ -1,0 +1,1112 @@
+{
+  "types": [
+    {
+      "name": "liver",
+      "fields": [
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "large size"
+        },
+        {
+          "name": "echogenicity"
+        },
+        {
+          "name": "increased echogenicity"
+        },
+        {
+          "name": "fatty echogenicity"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion count"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion component"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion suggestive"
+        },
+        {
+          "name": "bile duct"
+        }
+      ]
+    },
+    {
+      "name": "left kidney",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "transplanted"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "large size"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "cortical parenchymal differ"
+        },
+        {
+          "name": "cortical parenchymal echogenicity"
+        },
+        {
+          "name": "cortical thinning"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone quantity"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "stone location"
+        },
+        {
+          "name": "stasis"
+        },
+        {
+          "name": "stasis severity"
+        },
+        {
+          "name": "perinehric collection"
+        },
+        {
+          "name": "cortical cyst"
+        },
+        {
+          "name": "cortical cyst quantity"
+        },
+        {
+          "name": "cortical cyst size"
+        },
+        {
+          "name": "cortical cyst type"
+        },
+        {
+          "name": "cortical cyst location"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "internal debris"
+        }
+      ]
+    },
+    {
+      "name": "right kidney",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "transplanted"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "large size"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "cortical parenchymal differ"
+        },
+        {
+          "name": "cortical parenchymal echogenicity"
+        },
+        {
+          "name": "cortical thinning"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone quantity"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "stone location"
+        },
+        {
+          "name": "stasis"
+        },
+        {
+          "name": "stasis severity"
+        },
+        {
+          "name": "perinehric collection"
+        },
+        {
+          "name": "cortical cyst"
+        },
+        {
+          "name": "cortical cyst quantity"
+        },
+        {
+          "name": "cortical cyst size"
+        },
+        {
+          "name": "cortical cyst type"
+        },
+        {
+          "name": "cortical cyst location"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "internal debris"
+        }
+      ]
+    },
+    {
+      "name": "gb",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "distention"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone quantity"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "sludge"
+        },
+        {
+          "name": "pericholecystic fluid"
+        },
+        {
+          "name": "wall thickening"
+        },
+        {
+          "name": "wall thickening upper normal size"
+        },
+        {
+          "name": "wall thickening significant size"
+        },
+        {
+          "name": "morphy sign"
+        },
+        {
+          "name": "acute cholecystitis"
+        }
+      ]
+    },
+    {
+      "name": "cbd",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "dilation"
+        },
+        {
+          "name": "dilation details"
+        },
+        {
+          "name": "largest diameter"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone number"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "lft ercp cor"
+        }
+      ]
+    },
+    {
+      "name": "pancreas",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "prominent size"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "abnormal shape sug"
+        },
+        {
+          "name": "echogenicity"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion location"
+        },
+        {
+          "name": "lesion suggestive"
+        },
+        {
+          "name": "pancreatic duct"
+        },
+        {
+          "name": "pancreatic duct size"
+        },
+        {
+          "name": "pancreatitis"
+        },
+        {
+          "name": "ct cor"
+        }
+      ]
+    },
+    {
+      "name": "spleen",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "enlarged size"
+        },
+        {
+          "name": "max length"
+        },
+        {
+          "name": "echogenicity"
+        },
+        {
+          "name": "splenic vein seen"
+        },
+        {
+          "name": "splenic vein"
+        },
+        {
+          "name": "splenic vein dilated"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion location"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "in favor of"
+        }
+      ]
+    },
+    {
+      "name": "prostate",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "normal size"
+        },
+        {
+          "name": "prominent size"
+        },
+        {
+          "name": "prominent size type"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "abnormal shape sug"
+        },
+        {
+          "name": "capsula"
+        },
+        {
+          "name": "echogenicity"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "prostatitis"
+        },
+        {
+          "name": "psa cor"
+        },
+        {
+          "name": "seminal type"
+        },
+        {
+          "name": "seminal seen"
+        },
+        {
+          "name": "seminal size"
+        },
+        {
+          "name": "seminal shape"
+        },
+        {
+          "name": "seminal echogenicity texture"
+        },
+        {
+          "name": "seminal lesion"
+        },
+        {
+          "name": "seminal lesion number"
+        },
+        {
+          "name": "seminal lesion size"
+        },
+        {
+          "name": "seminal lesion echogenicity"
+        },
+        {
+          "name": "seminal lesion comp"
+        },
+        {
+          "name": "seminal lesion morph"
+        },
+        {
+          "name": "seminal lesion border"
+        },
+        {
+          "name": "seminal lesion suggestion"
+        }
+      ]
+    },
+    {
+      "name": "bladder",
+      "fields": [
+        {
+          "name": "distension"
+        },
+        {
+          "name": "distension empty eval"
+        },
+        {
+          "name": "distension foley eval"
+        },
+        {
+          "name": "wall thickening"
+        },
+        {
+          "name": "abnormal wall thickening size"
+        },
+        {
+          "name": "abnormal wall thickening uac cor"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone number"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion body pos"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "mucosal irregularity"
+        },
+        {
+          "name": "trabeculation"
+        },
+        {
+          "name": "diverticulum"
+        },
+        {
+          "name": "debris"
+        },
+        {
+          "name": "volume eval"
+        },
+        {
+          "name": "volume"
+        }
+      ]
+    },
+    {
+      "name": "left ureter",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "type"
+        },
+        {
+          "name": "location"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone number"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "stone location"
+        }
+      ]
+    },
+    {
+      "name": "right ureter",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "type"
+        },
+        {
+          "name": "location"
+        },
+        {
+          "name": "stone"
+        },
+        {
+          "name": "stone number"
+        },
+        {
+          "name": "stone size"
+        },
+        {
+          "name": "stone location"
+        }
+      ]
+    },
+    {
+      "name": "uterus",
+      "fields": [
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "normal size"
+        },
+        {
+          "name": "enlarged size"
+        },
+        {
+          "name": "small size type"
+        },
+        {
+          "name": "position"
+        },
+        {
+          "name": "abnormal pos"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "abnormal shape"
+        },
+        {
+          "name": "echogenicity"
+        },
+        {
+          "name": "endometrium"
+        },
+        {
+          "name": "endometrium thickening"
+        },
+        {
+          "name": "abnormal endometrium"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion uterus pos"
+        },
+        {
+          "name": "lesion anatomic pos"
+        },
+        {
+          "name": "lesion histologic pos"
+        },
+        {
+          "name": "lesion anatomic fundus pos"
+        },
+        {
+          "name": "lesion anatomicbody pos"
+        },
+        {
+          "name": "lesion anatomic isthmus"
+        },
+        {
+          "name": "lesion histologic sub moucosal"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "atrophic"
+        },
+        {
+          "name": "intrauterine"
+        }
+      ]
+    },
+    {
+      "name": "abdominal aorta",
+      "fields": [
+        {
+          "name": "calibre"
+        },
+        {
+          "name": "course"
+        },
+        {
+          "name": "abnormal course sug"
+        },
+        {
+          "name": "displaced"
+        },
+        {
+          "name": "abnormal calibre"
+        },
+        {
+          "name": "narrowing calibre"
+        },
+        {
+          "name": "dilatation calibre"
+        },
+        {
+          "name": "clot narrowing calibre stenosis"
+        },
+        {
+          "name": "clot narrowing calibre pos"
+        },
+        {
+          "name": "atherosclerotic narrowing calibre stenosis"
+        },
+        {
+          "name": "aneurysm dilatation calibre size"
+        },
+        {
+          "name": "aneurysm dilatation calibre pos"
+        }
+      ]
+    },
+    {
+      "name": "ivc",
+      "fields": [
+        {
+          "name": "calibre"
+        },
+        {
+          "name": "course"
+        },
+        {
+          "name": "abnormal course sug"
+        },
+        {
+          "name": "displaced"
+        },
+        {
+          "name": "abnormal calibre"
+        },
+        {
+          "name": "narrowing calibre"
+        },
+        {
+          "name": "dilatation calibre"
+        },
+        {
+          "name": "clot narrowing calibre stenosis"
+        },
+        {
+          "name": "clot narrowing calibre pos"
+        },
+        {
+          "name": "aneurysm dilatation calibre size"
+        },
+        {
+          "name": "aneurysm dilatation calibre pos"
+        }
+      ]
+    },
+    {
+      "name": "abdomino pelvic cavity",
+      "fields": [
+        {
+          "name": "free fluid"
+        },
+        {
+          "name": "free fluid severity"
+        },
+        {
+          "name": "free fluid pos"
+        },
+        {
+          "name": "localised free fluid pos"
+        },
+        {
+          "name": "free fluid morph"
+        },
+        {
+          "name": "free fluid inf"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "lymphadenopathy"
+        },
+        {
+          "name": "lymphadenopathy number"
+        },
+        {
+          "name": "lymphadenopathy size"
+        },
+        {
+          "name": "lymphadenopathy pos"
+        },
+        {
+          "name": "lymphadenopathy suggestion"
+        },
+        {
+          "name": "surgery"
+        },
+        {
+          "name": "surgery inf"
+        },
+        {
+          "name": "surgery lesion"
+        },
+        {
+          "name": "surgery lesion number"
+        },
+        {
+          "name": "surgery lesion size"
+        },
+        {
+          "name": "surgery lesion echogenicity"
+        },
+        {
+          "name": "surgery lesion skin distance"
+        },
+        {
+          "name": "surgery lesion suggestion"
+        },
+        {
+          "name": "ct scan cor"
+        }
+      ]
+    },
+    {
+      "name": "left ovary",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "small size compat"
+        },
+        {
+          "name": "increased size"
+        },
+        {
+          "name": "mildly increased size"
+        },
+        {
+          "name": "moderately increased size"
+        },
+        {
+          "name": "severely increased size"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "echogenicity pattern"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion internal echogenicity"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion inv"
+        },
+        {
+          "name": "lesion inf"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "atrophic change"
+        },
+        {
+          "name": "adnexa"
+        },
+        {
+          "name": "abnormal adnexa"
+        }
+      ]
+    },
+    {
+      "name": "right ovary",
+      "fields": [
+        {
+          "name": "position"
+        },
+        {
+          "name": "seen"
+        },
+        {
+          "name": "size"
+        },
+        {
+          "name": "small size"
+        },
+        {
+          "name": "small size compat"
+        },
+        {
+          "name": "increased size"
+        },
+        {
+          "name": "mildly increased size"
+        },
+        {
+          "name": "moderately increased size"
+        },
+        {
+          "name": "severely increased size"
+        },
+        {
+          "name": "shape"
+        },
+        {
+          "name": "echogenicity pattern"
+        },
+        {
+          "name": "lesion"
+        },
+        {
+          "name": "lesion number"
+        },
+        {
+          "name": "lesion size"
+        },
+        {
+          "name": "lesion comp"
+        },
+        {
+          "name": "lesion morph"
+        },
+        {
+          "name": "lesion echogenicity"
+        },
+        {
+          "name": "lesion internal echogenicity"
+        },
+        {
+          "name": "lesion border"
+        },
+        {
+          "name": "lesion inv"
+        },
+        {
+          "name": "lesion inf"
+        },
+        {
+          "name": "lesion pos"
+        },
+        {
+          "name": "lesion suggestion"
+        },
+        {
+          "name": "atrophic change"
+        },
+        {
+          "name": "adnexa"
+        },
+        {
+          "name": "abnormal adnexa"
+        }
+      ]
+    }
+  ]
+}
