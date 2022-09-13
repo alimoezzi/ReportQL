@@ -12,7 +12,6 @@
 
 [[paper](https://rdcu.be/cUiqQ)] [[dataset](https://alimoezzi.io/reportql)] [[project page](https://alimoezzi.io/reportql)]
 
-
 ## Introduction
 
 This repository is code release for **Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Technique**
@@ -26,6 +25,7 @@ Since radiology reports needed for clinical practice and research are written an
 Our annotated [dataset](https://doi.org/10.5281/zenodo.7072374) used in the paper is hosted in this repository and in [Kaggle Datasets](https://www.kaggle.com/datasets/sarme77/reportql).
 
 The data is structured as follows:
+
 ```
 data/
 ├── trialReport
@@ -38,9 +38,10 @@ data/
 │           ├── train_orig.csv
 │           └── training.csv
 ```
+
 The `train_orig.csv` is our original training set. You can find our synthetic dataset and test set in `training.csv` and `test.csv` file.
 
-Information schema used for annotating schemas can be found in `simpleSchema.json`
+Information schema used for annotating reports can be found in `simpleSchema.json`
 
 ## Setup
 
@@ -94,11 +95,11 @@ Please see the LICENSE file for details.
 ## Citation
 
 If you find our work useful in your research, please consider citing:
-    
-    @article{Moezzi2022,
-      title={Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Techniquen},
-      author={Seyed Ali Reza Moezzi, Abdolrahman Ghaedi, Mojdeh Rahmanian, Seyedeh Zahra Mousavi, Ashkan Sami},
-      journal={Journal of Digital Imaging},
-      doi={https://doi.org/10.1007/s10278-022-00692-x},
-      year={2022}
-    }
+
+@article{Moezzi2022,
+  title={Application of Deep Learning in Generating Structured Radiology Reports: A Transformer-Based Techniquen},
+  author={Seyed Ali Reza Moezzi, Abdolrahman Ghaedi, Mojdeh Rahmanian, Seyedeh Zahra Mousavi, Ashkan Sami},
+  journal={Journal of Digital Imaging},
+  doi={https://doi.org/10.1007/s10278-022-00692-x},
+  year={2022}
+}
