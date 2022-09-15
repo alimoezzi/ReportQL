@@ -81,7 +81,7 @@ python script/test.py
 
 ### Inference
 
-We prepared [a jupyter notebook](notebooks/visualize.ipynb) for Inference.
+We prepared [a jupyter notebook](notebooks/predict_reportql.ipynb) for Inference.
 
 ## Fine-tuned Model
 
