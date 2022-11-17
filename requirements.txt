@@ -134,7 +134,7 @@ widgetsnbextension==3.6.0
 xxhash==3.0.0
 yarl==1.7.2
 zipp==3.8.0
-evaluate==0.2.2
+evaluate==0.3.0
 sacrebleu==2.2.0
 nltk==3.7
 rouge-score==0.1.2
