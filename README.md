@@ -11,7 +11,7 @@
 <sub><sup>*Accepted: 27 July 2022*</sup></sub>
 </html>
 
-[[paper](https://link.springer.com/article/10.1007/s10278-022-00692-x)] [[arXiv](https://arxiv.org/abs/2209.12177)] [[dataset](https://www.kaggle.com/datasets/sarme77/reportql)] [[project page](https://realsarm.github.io/ReportQL/)]
+[[paper](https://link.springer.com/article/10.1007/s10278-022-00692-x)] [[arXiv](https://arxiv.org/abs/2209.12177)] [[dataset](https://www.kaggle.com/datasets/sarme77/reportql)] [[project page](https://alimoezzi.github.io/ReportQL/)]
 
 ## Introduction
 
